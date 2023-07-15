@@ -9,4 +9,9 @@ a {
 
 a:hover {
   color: purple;
+  text-decoration: underline;
+}
+
+.first-heading {
+  color: aqua;
 }
