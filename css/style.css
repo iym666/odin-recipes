@@ -1,0 +1,12 @@
+body {
+  font-family: Georgia, "Times New Roman", Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: purple;
+}
