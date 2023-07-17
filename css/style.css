@@ -17,6 +17,12 @@ a:hover {
   font-weight: 600;
 }
 
+.ordered-list {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+}
+
 .first-heading {
   color: aqua;
 }
@@ -27,8 +33,14 @@ a:hover {
 
 .second-heading.paragraph {
   color: black;
+  font-size: 18px;
 }
 
 .third-heading {
-  color: yellow;
+  color: green;
+}
+
+.fourth-heading {
+  color: chocolate;
+  font-style: italic;
 }
